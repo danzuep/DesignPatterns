@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// See https://refactoring.guru/design-patterns/strategy
 namespace RefactoringGuru.DesignPatterns.Strategy.Conceptual
 {
     // The Context defines the interface of interest to clients.

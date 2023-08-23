@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// See https://www.dofactory.com/net/strategy-design-pattern
 namespace Strategy.RealWorld
 {
     /// <summary>
